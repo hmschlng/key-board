@@ -1,10 +1,8 @@
 import axios from "axios";
 
-let backendUrl = process.env.SERVER_URL;
-
 function apiInstance() {
   const instance = axios.create({
-    baseURL: backendUrl,
+    baseURL: "http://localhost:8080",
     headers: {
       "Content-Type": "application/json;charset=utf-8",
     },
