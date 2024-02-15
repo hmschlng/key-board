@@ -20,7 +20,7 @@ import com.ssafy.backtest.member.model.dto.Member;
 
 @RestController
 @CrossOrigin
-@RequestMapping("member")
+@RequestMapping("/api/member")
 public class MemberController {
 	
 	@Autowired
