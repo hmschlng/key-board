@@ -24,7 +24,7 @@ import com.ssafy.backtest.board.model.service.BoardService;
 
 @RestController
 @CrossOrigin
-@RequestMapping("/board")
+@RequestMapping("/api/board")
 public class BoardController {
 	
 	@Autowired
