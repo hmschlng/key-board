@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwhereismyhome_vue"]=self["webpackChunkwhereismyhome_vue"]||[]).push([[640],{7384:function(t,e,n){n.r(e),n.d(e,{default:function(){return h}});var a=function(){var t=this,e=t._self._c;return e("div",[e("h2",{staticClass:"my-10 text-center"},[t._v("글수정")]),e("board-input-item",{attrs:{type:"update"}})],1)},r=[],u=n(4524),s={name:"BoardUpdate",components:{BoardInputItem:u.c},data(){return{mainWidth:this.$store.state.mainStore.mainWidth}}},i=s,o=n(2528),c=(0,o.c)(i,a,r,!1,null,null,null),h=c.exports}}]);
+//# sourceMappingURL=640.0ccd6dae.js.map

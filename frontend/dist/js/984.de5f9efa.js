@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwhereismyhome_vue"]=self["webpackChunkwhereismyhome_vue"]||[]).push([[984],{8212:function(t,e,n){n.r(e),n.d(e,{default:function(){return h}});var r=function(){var t=this,e=t._self._c;return e("div",[e("h2",{staticClass:"my-10 text-center"},[t._v("글등록")]),e("board-input-item",{attrs:{type:"register"}})],1)},i=[],s=n(4524),a={name:"BoardWrite",components:{BoardInputItem:s.c},data(){return{mainWidth:this.$store.state.mainStore.mainWidth}}},u=a,o=n(2528),c=(0,o.c)(u,r,i,!1,null,null,null),h=c.exports}}]);
+//# sourceMappingURL=984.de5f9efa.js.map

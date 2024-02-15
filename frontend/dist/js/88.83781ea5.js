@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkwhereismyhome_vue"]=self["webpackChunkwhereismyhome_vue"]||[]).push([[88],{6468:function(e,l,n){n.r(l),n.d(l,{default:function(){return h}});var s=n(4838),t=n(4624),u=function(){var e=this,l=e._self._c;return l("div",{staticClass:"pa-6 pt-16"},[l("h2",[e._v("Wishlist")]),l(s.c,[l(t.c,{model:{value:e.model,callback:function(l){e.model=l},expression:"model"}})],1)],1)},c=[],i={name:"MyWishlist",data(){return{model:null}},components:{}},o=i,a=n(2528),r=(0,a.c)(o,u,c,!1,null,null,null),h=r.exports}}]);
+//# sourceMappingURL=88.83781ea5.js.map
