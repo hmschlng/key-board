@@ -35,7 +35,7 @@ function updateMember(member, success, fail) {
 
 // emailId
 function quit(member, success, fail) {
-  api.delete(`${memberURL}/delete`, JSON.stringify(member)).then(success).catch(fail);
+  api.post(`${memberURL}/delete`, JSON.stringify(member)).then(success).catch(fail);
 }
 
 export { login, join, checkEmailId, searchPw, updatePass, updateMember, quit };

@@ -71,8 +71,8 @@ export default {
     registArticle() {
       let param = {
         category: this.$store.state.boardStore.categoryTab == 0 ? "share" : "local",
-        memberId: "kimssafy@ssafy.com",
-        nickname: "soyoon",
+        memberId: "soulb9@naver.com",
+        nickname: "hmschlng",
         title: this.article.title,
         content: this.article.content,
       };

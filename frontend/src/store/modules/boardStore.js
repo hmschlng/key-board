@@ -4,8 +4,8 @@ let boardStore = {
   namespaced: true,
   state: {
     boardList: [],
-    searchOptions: [], // 제목, 내용, 작성자
-    categoryTab: 0, // 정보공유, 우리동네
+    searchOptions: [],
+    categoryTab: 0, 
     pgno: 1,
     pageSize: "10",
     option: "title",

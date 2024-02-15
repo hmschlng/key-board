@@ -22,7 +22,7 @@ export default {
     return {
       mainWidth: this.$store.state.mainStore.mainWidth,
       tab: this.$store.state.boardStore.categoryTab,
-      tabs: ["정보 공유", "우리 동네"],
+      tabs: ["정보 공유", "질문 게시판"],
     };
   },
   methods: {

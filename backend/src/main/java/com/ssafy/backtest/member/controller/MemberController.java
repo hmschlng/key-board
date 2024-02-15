@@ -20,7 +20,7 @@ import com.ssafy.backtest.member.model.dto.Member;
 
 @RestController
 @CrossOrigin
-@RequestMapping("member")
+@RequestMapping("/member")
 public class MemberController {
 	
 	@Autowired
@@ -117,7 +117,7 @@ public class MemberController {
 	 * @return true if data successfully deleted, false id failed
 	 * @throws Exception
 	 */
-	@DeleteMapping("delete")
+	@PostMapping("/delete")
 	public ResponseEntity<?> quit(
 			@RequestBody Member member
 			) throws Exception {
