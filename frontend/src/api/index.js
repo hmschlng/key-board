@@ -2,7 +2,7 @@ import axios from "axios";
 
 function apiInstance() {
   const instance = axios.create({
-    baseURL: "http://localhost:8080",
+    baseURL: "https://key-board.o-r.kr/api",
     headers: {
       "Content-Type": "application/json;charset=utf-8",
     },
