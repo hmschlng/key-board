@@ -31,8 +31,8 @@ public class MailDispatcher {
 	private String senderPass;
 	
 	public MailDispatcher() throws Exception {
-		this.senderId = "soulb9@naver.com";
-        this.senderPass = "didos9430!A";
+		this.senderId = {이메일ID};
+        this.senderPass = {비밀번호};
 	}
 	
 	public String sendAuthMail(String addr) {
